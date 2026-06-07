@@ -1,0 +1,9 @@
+body {
+  background: #111;
+  color: white;
+  font-family: Arial;
+}
+
+input {
+  margin: 5px;
+}
